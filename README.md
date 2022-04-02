@@ -24,6 +24,6 @@ Olá, eu sou a Rafa!✨
   <!--clicaveis-->
 <div> 
   <a href = "mailto:rafaelamascarenhas.ella@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaela-mascarenhas-8bb0b421b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaela-mascarenhas-8bb0b421b" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
  
 </div>
